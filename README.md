@@ -1,4 +1,5 @@
 # Multiple Granularity Network
+I copy others, but I am ready to rebuild it by more effective way.
 Reproduction of paper: Learning Discriminative Features with Multiple Granularities for Person Re-Identification
 
 ### About
