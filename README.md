@@ -31,7 +31,7 @@ Please cite and refer to:
 * [mgn/mgn.py](/mgn/mgn.py): re-production of Multiple Granularity Network.
 
 * [mgn/ide.py](/mgn/ide.py): baseline ResNet-50 based model, which is a rewritten from [Person reID baseline pytorch](
-https://github.com/layumi/Person_reID_baseline_pytorch).
+https://github.com/Barzarrhey/Person_Reid).
 
 * [mgn/triplet.py](/mgn/triplet.py): triplet semi-hard sample mining loss.
 
@@ -41,4 +41,6 @@ https://github.com/layumi/Person_reID_baseline_pytorch).
 
 ### Current Progress
 
-* 2018-04-28: mAP=0.579464, r@1=0.798694, r@5=0.909739, r@10=0.938539
+* 2018-06-10: mAP=0.579464, r@1=0.798694, r@5=0.909739, r@10=0.938539
+
+* Barzarrhey success to run it and up to 96.13%.(ps:helped by L.Wang)
