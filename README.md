@@ -44,4 +44,4 @@ https://github.com/Barzarrhey/Person_Reid).
 
 * 2018-06-10: mAP=0.579464, r@1=0.798694, r@5=0.909739, r@10=0.938539
 
-* Barzarrhey success to run it and up to 96.13%.(ps:helped by L.Wang)
+* Barzarrhey success to run it.(ps:helped by L.Wang)
