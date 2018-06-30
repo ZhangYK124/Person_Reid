@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+MGN目前mAP,0.8485.rar
